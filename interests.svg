@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="290" viewBox="0 0 760 290" role="img" aria-label="Four interests: Software Engineering, Data and Algorithms, Medical Informatics, New Technologies">
+<rect width="760" height="290" fill="#ffffff"/>
+<g fill="#f9fbfa" stroke="#d8e3df" stroke-width="1.5">
+<rect x="8" y="8" width="366" height="130" rx="13"/>
+<rect x="386" y="8" width="366" height="130" rx="13"/>
+<rect x="8" y="152" width="366" height="130" rx="13"/>
+<rect x="386" y="152" width="366" height="130" rx="13"/>
+</g>
+<g fill="none" stroke="#648c82" stroke-width="2.7" stroke-linecap="round" stroke-linejoin="round">
+<path d="M52 48 L40 60 L52 72 M72 48 L84 60 L72 72 M66 44 L58 76"/>
+<ellipse cx="420" cy="49" rx="15" ry="6"/><path d="M405 49 V70 C405 78 435 78 435 70 V49 M405 59 C405 67 435 67 435 59"/>
+<path d="M44 195 C35 186 25 201 35 212 L60 235 L85 212 C95 201 85 186 76 195 L60 208 Z"/><path d="M38 213 H48 L54 204 L62 221 L68 213 H82"/>
+<path d="M416 196 C403 190 398 205 406 212 C398 220 410 232 420 225 C430 233 442 220 434 212 C442 204 436 190 424 196 M420 196 V225 M409 208 H416 M424 216 H432"/>
+</g>
+<g font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="600" fill="#243746">
+<text x="38" y="110">Software Engineering</text>
+<text x="406" y="110">Data &amp; Algorithms</text>
+<text x="38" y="254">Medical Informatics</text>
+<text x="406" y="254">New Technologies</text>
+</g>
+</svg>
