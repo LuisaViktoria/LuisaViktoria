@@ -15,11 +15,7 @@ Ich studiere Medizinische Informatik an der Universität zu Lübeck. Besonders i
 
 ### 02 / Was mich interessiert · My interests
 
-💻 **Software Engineering**  
-🗃️ **Data & Algorithms**  
-🩺 **Medical Informatics**  
-💡 **New Technologies**
-
+![Meine Interessen](interests.svg)
 ### 03 / Projekte · Projects
 
 My portfolio is currently growing. Here I'll share projects, experiments and what I learn along the way.
